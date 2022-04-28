@@ -1,4 +1,4 @@
-const {watch, series, parallel} = require("gulp"); 
+const { watch, series, parallel } = require("gulp");
 const browserSync = require("browser-sync").create();
 
 //Configurations
